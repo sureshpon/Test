@@ -1,2 +1,2 @@
 # Test
-The learning test project. DO not follow
+The learning test project. Do not follow
